@@ -30,7 +30,7 @@
 ### Краткая информация о данных
 Целые числа от 0 до 100
   
-:arrow_up:[к оглавлению]([.README.md#Оглавление](https://github.com/vadim328/Skillfactory_Guess_number/blob/main/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5))
+:arrow_up:[к оглавлению](https://github.com/vadim328/Skillfactory_Guess_number/blob/main/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом  
@@ -39,18 +39,18 @@
 - Написан алгоритм угадывающий за минимальное количество шагов загаданное 
 значение
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/vadim328/Skillfactory_Guess_number/blob/main/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
 Написан алгоритм который угадывает число в среднем за 6 попыток
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/vadim328/Skillfactory_Guess_number/blob/main/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/vadim328/Skillfactory_Guess_number/blob/main/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
